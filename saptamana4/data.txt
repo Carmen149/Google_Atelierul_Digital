@@ -1,0 +1,3 @@
+curs python
+curs python1
+curs python2
